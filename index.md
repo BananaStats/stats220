@@ -14,4 +14,4 @@ I want to remind myself that other than studying, I need to:
 ## Learn more about [pusheen](https://pusheen.com/)
 
 
-I have adapted the usual meme format with words and an animated gif side-by-side.
+
