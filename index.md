@@ -10,7 +10,7 @@ I want to remind myself that other than studying, I need to:
 2. Animated gif of pusheen **sleeping**
 3. Animated gif of bing duanduan **having fun**
 
-## Learn more about [bing duanduan](https://olympics.com/en/beijing-2022/mascot)
+## Learn more about [bing dwendwen](https://olympics.com/en/beijing-2022/mascot)
 ## Learn more about [pusheen](https://pusheen.com/)
 
 
