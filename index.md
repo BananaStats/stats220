@@ -1,3 +1,7 @@
+# **My Meme**
+![](A1PartAMeme.png)
+
+
 # **R code**
 ```
 library("magick")
@@ -116,7 +120,6 @@ image_write(meme, "A1PartAMeme.png")
 
 ```
 
-
 # Why create this meme?
 
 I want to remind myself that other than studying, I need to:
@@ -125,14 +128,14 @@ I want to remind myself that other than studying, I need to:
 * *chill!* 
 
 # What is in the meme?
-1. Animated gif of pusheen **eatting**
-2. Animated gif of pusheen **sleeping**
-3. Animated gif of bing duanduan **having fun**
+1. Picture of panda **eatting** bamboo
+2. Picture of a baby panda **sleeping**
+3. Picture of Bing Dwen Dwen **chilling**
 
 ## Learn more about [bing dwendwen](https://olympics.com/en/beijing-2022/mascot)
-![bing dwendwen](https://c.tenor.com/Y5tzHIP1LaAAAAAd/bing-dwen-dwen-olympics.gif)
+![bing dwendwen](https://p8.itc.cn/q_70/images03/20220208/064fb9cadbbb45069dbbdf192c5bb77d.gif)
 
-## Learn more about [pusheen](https://pusheen.com/)
+## Learn more about [panda's bamboo diet](https://www.science.org/content/article/how-pandas-survive-their-bamboo-only-diet#:~:text=The%20two%20bamboo%20species%20in,rich%20in%20nitrogen%20and%20phosphorous.)
 
 
 
