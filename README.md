@@ -1,6 +1,11 @@
-# **Stats220**
+<h1 align="center">
+ Stats220
+</h1>
 
-![dog_hi](https://c.tenor.com/k0LBjTwSawMAAAAM/puppy-hi.gif)
+<p align="center">
+  <img src="https://c.tenor.com/k0LBjTwSawMAAAAM/puppy-hi.gif" />
+</p>
+
 
 ## Links:
 
