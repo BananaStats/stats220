@@ -14,4 +14,4 @@
 ### [Published website](https://bananastats.github.io/stats220/)
 
 ## *Purpose*: 
-This repo is for sharing my completed assignment works for stats 220, a second year university paper. For Assignment 1, I created a meme with panda.
+This repo is for sharing my completed assignment works for stats 220, a second year university paper. For Assignment 1, I created a meme with panda. This repo is to be updated.
