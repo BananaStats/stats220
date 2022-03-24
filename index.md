@@ -127,6 +127,8 @@ I want to remind myself that other than studying, I need to:
 * sleep
 * *chill!* 
 
+Taking good care of myself is important and getting sufficient rest helps me recharge my energy to do better! I adapted the commone meme format and arranged different colours in a smooth order. The dots are suppose to have a leading and revealing effect.
+
 # What is in the meme?
 1. Picture of panda **eatting** bamboo
 2. Picture of a baby panda **sleeping**
